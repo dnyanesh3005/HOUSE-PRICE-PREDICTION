@@ -1,2 +1,3 @@
 # HOUSE-PRICE-PREDICTION
 house price prediction using linear regression algorithm
+In this project, I analyzed a real estate dataset to understand the factors affecting house prices. I began with data cleaning, handling missing values, and encoding categorical variables. I performed exploratory data analysis (EDA) to identify trends and correlations between features like location, square footage, number of bedrooms. Using machine learning models Linear Regression, I built a predictive model to estimate house prices. I evaluated model performance using metrics like R² score and RMSE. Additionally, I visualized key insights with Matplotlib and Seaborn to interpret the results effectively.
